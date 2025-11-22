@@ -1,6 +1,6 @@
 # COVID-19 Data Visualization Project
 
-![COVID-19](images/covid.png)
+![COVID-19](fusion-medical-animation-rnr8D3FNUNY-unsplash.jpg)
 
 This project analyzes and visualizes global COVID-19 data using Python, Pandas, Plotly, and Folium.  
 The notebook includes:
